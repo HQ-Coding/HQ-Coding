@@ -7,4 +7,7 @@
 <hr>
 <h2>My Experiance :</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwind,vue">
-
+<h2>Contact Me:</h2>
+<a href="mailto:qasemian.hadi@gmail.com">
+  My EMAIL
+</a>
